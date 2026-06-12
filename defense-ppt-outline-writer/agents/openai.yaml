@@ -1,0 +1,4 @@
+interface:
+  display_name: "开题答辩PPT大纲与讲稿"
+  short_description: "从论文/开题文档提炼可直接做PPT的层级大纲，并生成答辩讲稿。"
+  default_prompt: "读取我的论文或开题报告，保留原文重点，拆成适合答辩PPT的层级大纲，并写一版讲稿。"
